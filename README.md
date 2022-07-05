@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data Structures and React Js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritika-khanduri/](https://www.linkedin.com/in/ritika-khanduri/)
+- 👨‍💻 Want to connect ? 👉[https://www.linkedin.com/in/ritika-khanduri/](https://www.linkedin.com/in/ritika-khanduri/)
 
 - 💬 Ask me about **DSA , Web design , Frontend Development**
 
