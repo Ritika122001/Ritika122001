@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **React Js** and **practising Data Structures and Algorithms**.
 - 💬 Ask me about **DSA , Web design , Frontend Development**
-- 🙌 Want to Connect ? [Linkedin](https://www.linkedin.com/in/ritika-khanduri/)
+- 🙌 Want to Connect 👉? [Linkedin](https://www.linkedin.com/in/ritika-khanduri/)
 - 📫 How to reach me **ritikakhanduri01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika122001&label=Profile%20views&color=0e75b6&style=flat" alt="ritika122001" /> </p>
