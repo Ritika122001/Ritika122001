@@ -3,7 +3,7 @@
 
 <h1 align="center">Hii👋, I'm Ritika Khanduri</h1>
 <h3 align="center"> DSA || Development  || Technophile</h3>
-<p>I'm a final-year CSE student pursuing  B. Tech and an enthusiastic programmer who likes to code. I enjoy learning new skills and exploring new technology..  <br> 
+<p> An enthusiastic programmer who likes to code. I enjoy learning new skills and exploring new technology..  <br> 
 </p>
 <br/>
 
