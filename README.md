@@ -2,13 +2,19 @@
 
 
 <h1 align="center">Hii👋, I'm Ritika Khanduri</h1>
-<h3 align="center"> DSA || Development  || Technophile</h3>
+<h3 align="center"> Application Developer with 2+ years of experience in Full-Stack Development</h3>
+
+<p>Building scalable web applications and enterprise solutions using Java, Spring Boot , React.js and SQL. Skilled in System Design, REST APIs, and Object-Oriented Programming, with hands-on experience in developing reusable components, interactive dashboards, and data-driven applications</p>
+
+<p>Selected as a PhonePe Tech Scholar ’22 through Crio.Do, where I implemented real-world projects like Xharktank, QContest, and QCalc. Completed the Udacity Nano Degree in Frontend Development, contributed to open-source projects (GirlScript Summer of Code, Hacktoberfest), and improved my problem solving ability through coding ninjas competitions (Top 134/5000 in Women’s Championship, Top 9K/200K in CodeKaze)</p>
+
+<p>Passionate about problem solving, full stack development and system design, with strong skills in Java, React.js, SQL, C++, and tools like Git, Postman, and VS Code. Always eager to take up challenges, collaborate in agile teams, and contribute to building high-performance, reliable, and scalable systems.</p>
+
+<p>Enthusiastic about problem-solving, backend engineering, and system design, with strong proficiency in Java, React.js, SQL, C++, and hands-on experience with tools like Git, Postman, and VS Code. Driven to take on new challenges, collaborate effectively in agile teams, and contribute to building reliable, scalable, and high-performance systems</p>
 <p> An enthusiastic programmer who likes to code. I enjoy learning new skills and exploring new technology..  <br> 
 </p>
 <br/>
 
-- 🌱 Currently learning **React Js** and **practising Data Structures and Algorithms**.
-- 💬 Ask me about **DSA , Web design , Frontend Development**
 - 🙌 Want to Connect 👉? [Linkedin](https://www.linkedin.com/in/ritika-khanduri/)
 - 📫 How to reach me **ritikakhanduri01@gmail.com**
 
